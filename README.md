@@ -16,7 +16,7 @@ I am an aspiring innovator with a focus on Artificial Intelligence and Cybersecu
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TAMAMUZAD&theme=highcontrast&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ 
+### ✍️ W o r d s
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
